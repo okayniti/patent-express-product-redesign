@@ -1,34 +1,30 @@
 # Patent Express UX Redesign
 
-A UX redesign of the **Patent Express** user journey aimed at improving service clarity, reducing friction in the lead generation process, and guiding users smoothly from discovery to checkout.
+A UX redesign of the **Patent Express user journey** aimed at improving service clarity, reducing friction in the lead generation process, and guiding users smoothly from discovery to checkout.
 
-This project was created as part of a design assignment to evaluate UI design skills, product thinking, UX flow structuring, and the ability to communicate product value effectively.
+This project was created as a design exercise to analyze and improve the user experience of a patent filing service.
 
 ---
 
-## Project Overview
+## Project Goal
 
-Patent Express is a service designed to help innovators protect their intellectual property by guiding them through the patent filing process.
+The goal of this redesign was to:
 
-The redesign focuses on improving how the service is communicated and simplifying the user journey.
-
-Key goals of the redesign:
-
-- Improve clarity of the Patent Express service
-- Simplify lead generation
-- Reduce friction in the application process
-- Build trust with users
-- Create a smooth path from landing page to checkout
+- Clearly communicate the Patent Express service
+- Simplify the lead generation process
+- Reduce friction in the patent application flow
+- Create a clear path from landing page to checkout
+- Improve trust and transparency for users
 
 ---
 
 ## Redesigned User Flow
 
-The redesigned journey follows a clear progression:
+The redesigned experience follows a simple, guided journey:
 
 Landing Page → Lead Generation → Checkout
 
-Users first understand the service and its benefits, then submit information about their invention, and finally complete the purchase through a streamlined checkout experience.
+Users first learn about the service, then submit information about their invention, and finally complete the application through a streamlined checkout process.
 
 ![User Flow](user-flow.png)
 
@@ -36,30 +32,29 @@ Users first understand the service and its benefits, then submit information abo
 
 ## Landing Page
 
-The landing page focuses on clearly explaining the Patent Express service.
+The landing page focuses on clearly explaining the value of the service.
 
 Key elements include:
 
 - Clear value proposition
 - Benefits of patent protection
 - Step-by-step explanation of the process
-- Strong call-to-action
-- Trust signals for credibility
+- Strong call-to-action to start the application
 
 ![Landing Page](landing-page.png)
 
 ---
 
-## Lead Generation Flow
+## Lead Generation
 
-Instead of presenting a long form, the lead generation process collects information in a structured way to reduce friction and encourage users to proceed.
+Instead of overwhelming users with a long form, the redesigned flow collects essential information in a structured way to reduce friction and encourage completion.
 
 Information captured includes:
 
 - Patent title
 - Patent category
 - Short description of the invention
-- User contact details
+- User contact information
 
 ![Lead Flow](lead-flow.png)
 
@@ -67,14 +62,7 @@ Information captured includes:
 
 ## Checkout Experience
 
-The checkout page allows users to review the service details and complete payment with confidence.
-
-Features include:
-
-- Service summary
-- Transparent pricing
-- User information review
-- Simple and secure payment fields
+The checkout section provides a clear summary of the service along with transparent pricing, allowing users to review their application before completing the purchase.
 
 ![Checkout](checkout.png)
 
@@ -82,17 +70,23 @@ Features include:
 
 ## Key UX Improvements
 
-- Clear service explanation for first-time users
-- Structured user journey from discovery to checkout
-- Reduced form complexity
-- Stronger trust signals
-- Transparent pricing information
+- Clear service explanation for first-time visitors  
+- Simplified lead generation flow  
+- Stronger visual hierarchy and call-to-action placement  
+- Transparent service summary before payment  
 
 ---
 
 ## Figma Prototype
 
-View the full interactive prototype here:
+View the full interactive design:
 
-[https://www.figma.com/site/wl0qxRGmiPvwkYx8cxDGap/Patent-Express?node-id=0-1&t=ujyQQJT8B7hDdCpM-1]
+[Figma Link]
+
 ---
+
+## Loom Walkthrough
+
+A short walkthrough explaining the design process and decisions:
+
+See `loom-video-link.txt`
